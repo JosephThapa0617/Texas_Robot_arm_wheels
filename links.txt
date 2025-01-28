@@ -1,0 +1,2 @@
+FOR installing micropython
+https://chatgpt.com/share/6798a0bc-fabc-8005-b9f9-daa05b43bb5a
